@@ -1,0 +1,28 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+.school_name img{
+border: 2px solid lightcoral;
+}
+#campus_life img{
+border: 5px solid brown;
+padding: 2px;
+
+}
+.movie_head span{
+    float: left;
+}
+.movie_head i{
+    float: right;
+}
+#ach span{
+   color:orange;
+}
+ul{
+    background-color: bisque;
+}
